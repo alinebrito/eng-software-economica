@@ -10,9 +10,9 @@ Brooks também faz um comentário relaciono às estimativas:
 
 **Tarefas:**
 
-> Reflita sobre estas duas afirmações mostradas acima. Você concorda com estas observações?
+1. Reflita sobre estas duas afirmações mostradas acima. Você concorda com estas observações?
 
-> Escolha um dos Trabalhos Interdisciplinares realizados nos últimos semestres. Compare as funcionalidades propostas,o cronograma previsto com a entrega final. Supondo que este projeto seria entregue para um cliente real. Pense nos desafios para precificar sistemas de software e explique brevemente como seria a precificação do projeto, considerando o esforço de todos os envolvidos.
+2. Escolha um dos Trabalhos Interdisciplinares realizados nos últimos semestres. Compare as funcionalidades propostas,o cronograma previsto com a entrega final. Supondo que este projeto seria entregue para um cliente real. Pense nos desafios para precificar sistemas de software e explique brevemente como seria a precificação do projeto, considerando o esforço de todos os envolvidos.
 
 ## Referências
 

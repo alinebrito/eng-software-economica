@@ -5,4 +5,4 @@ Repositório de atividades práticas e teóricas da disciplina Engenharia Econô
 
 * [LAB01](docs/lab-mitico-homem-mes.md): Reflexões sobre o livro "O Mítico Homem-Mês"
 
-* [LAB02](docs/lab-gestao-custos.md): PMBOK & Gestão de Custos de Projeto
+* [LAB02](docs/lab-gestao-custos.md): Gestão de Custos de Projeto
