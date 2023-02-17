@@ -7,4 +7,4 @@ Repositório de atividades práticas e teóricas da disciplina Engenharia Econô
 
 * [LAB02](docs/lab-gestao-custos.md): Desafios na gestão de custos
 
-* [LAB03](docs/lab-noticias-abes.md): Discussão de notícias sobre a indústria de software e economia
+* [LAB03](docs/lab-noticias-abes.md): Discussão de notícias sobre economia e indústria de software

@@ -1,4 +1,4 @@
-# LAB: Discussão de Notícias sobre a Indústria de Software e Economia
+# LAB: Discussão de Notícias sobre Economia e Indústria de Software
 
 
 ## Instruções:
