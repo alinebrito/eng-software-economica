@@ -2,7 +2,8 @@
 
 Iann Sommerville faz uma observação importante sobre precificação de sistemas de software:
 
-> "A princípio, o preço de um sistema de software desenvolvido para um cliente é uma soma simples de custo do desenvolvimento e lucro do desenvolvedor. A princípio, o preço de um sistema de software desenvolvido para um cliente é uma soma simples de custo do desenvolvimento e lucro do desenvolvedor"
+> "A princípio, o preço de um sistema de software desenvolvido para um cliente é uma soma simples de custo do desenvolvimento e lucro do desenvolvedor. No entanto, na prática, o relacionamento entre o custo de projeto e o preço
+proposto para o cliente não costuma ser tão simples. Ao calcular um preço, você deve levar em consideração aspectos organizacionais, econômicos, políticos e comerciais"
 
 Brooks também faz um comentário relaciono às estimativas:
 
