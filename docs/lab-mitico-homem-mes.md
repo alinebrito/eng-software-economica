@@ -30,7 +30,7 @@ Frederick Brooks, um dos pioneiros da área de Engenharia de Software, discute e
 
 - Leia e reflita sobre estas afirmações. Você concorda com elas?
 
-- Escolha pelo menos uma proposição que relaciona-se com uma experiência que você já viveu no contexto de desenvolvimento de software. Por exemplo, pode ser uma experiência vivida no desenvolvimento de um projeto durante o curso ou uma experiência  no mercado de trabalho. Lembre-se de trazer o seu depoimento para a próxima aula!
+- Escolha pelo menos uma proposição que relaciona-se com uma experiência que você já viveu no contexto de desenvolvimento de software. Por exemplo, pode ser uma experiência vivida no desenvolvimento de um projeto durante o curso ou uma experiência  no mercado de trabalho. Lembre-se de trazer o seu depoimento para a próxima aula e responder o fórum no Canvas!
 
 Bons estudos!
 
