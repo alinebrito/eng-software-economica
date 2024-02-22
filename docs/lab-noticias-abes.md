@@ -3,7 +3,7 @@
 
 ## Instruções:
 
-Este laboratório prático deve ser realizado em grupos (3-4 pessoas).
+Este laboratório prático deve ser realizado em grupos (2-3 pessoas).
 
 Cada grupo deve:
 
