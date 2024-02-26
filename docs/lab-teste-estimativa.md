@@ -1,8 +1,8 @@
 # LAB:  Você é um bom estimador?
 
 
-## Parte 1: Quiz
-O questionário a seguir foi desenvolvido para testar suas habilidades de estimativa. Leia e observe atentamente as seguintes instruções:
+## Quiz
+O questionário a seguir foi desenvolvido para testar suas habilidades de estimativa. Leia e observe atentamente as instruções.
 
 Para cada questão, preencha os limites superior e inferior que, na sua opinião, possuem 90% de chance de incluir o valor correto. 
 Tenha cuidado para não tornar seus intervalos muito amplos ou muito restritos. 
