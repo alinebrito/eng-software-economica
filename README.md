@@ -9,7 +9,7 @@ Repositório de atividades práticas e teóricas da disciplina Engenharia Econô
 
 * [LAB03](docs/lab-noticias-abes.md): Discussão de notícias sobre economia e indústria de software
 
-* [LAB04](docs/lab-teste-estimativa.md): Um teste de estimativa simples
+* [LAB04](docs/lab-teste-estimativa.md): Você é um bom estimador?
 
 * [LAB05](docs/lab-artigo-icgse-effort-estimation.md): Discussão sobre o artigo _"Effort Estimation in Global Software Development Projects"_
 
