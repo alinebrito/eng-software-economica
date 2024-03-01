@@ -42,6 +42,8 @@ A ferramenta [CK](https://github.com/mauricioaniche/ck) calcula várias métrica
 
 2. Escolha um projeto real e relevante hospedado no GitHub. Em seguida, utilize a ferramenta CK para calcular o número de linhas dele.
 
+**Observação: Se desejar, você pode utilizar outra ferramenta, que calcula o número de linhas de código de um sistema de software.**
+
 **Entrega:** A entrega desta tarefa consiste na entrega de um relatório com:
 - Link do seu projeto trivial no GitHub, número de linhas computadas, e os um breve comentário sobre o resultado (isto é, quais detalhes você adicionou no código e como a ferramenta lidou com eles).
 - Link do projeto GitHub selecionado, número de estrelas, e número de linhas identificadas pela ferramenta CK.
