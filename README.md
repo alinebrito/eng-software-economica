@@ -14,3 +14,8 @@ Repositório de atividades práticas e teóricas da disciplina Engenharia Econô
 * [LAB05](docs/lab-tamanho-sistema-ferramenta-ck.md): Medindo o tamanho de sistemas através do número de linhas de código
 
 * [LAB06](docs/lab-artigo-icgse-effort-estimation.md): Discussão sobre o artigo _"Effort Estimation in Global Software Development Projects"_
+
+
+## Materiais Auxiliares
+
+* [Pontos de Função: Detalhamento dos fatores técnicos](docs/fp-fatores-tecnicos.md)
